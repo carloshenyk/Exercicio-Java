@@ -1,0 +1,31 @@
+import util.Scanner;
+
+public class Main
+{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in)
+        System.out.println("---------------------------");
+        System.out.println("    -Sistema de RF-");
+        System.out.println("        -Consinco-");
+        System.out.println();
+        System.out.println("     Data:15/01/2022");
+        System.out.println("---------------------------");
+        System.out.println("*****Produtivo*****");
+        int codigo;
+        System.out.println("Codigo:");
+        condigo = sc.nextInt();
+        System.out.println();
+        System.out.println();
+        System.out.println("[F1]Sair");
+        if(codigo = 12345){
+        System.out.println("[F2]Buscar Tarefa");
+        System.out.println("[F3]Invent/Movtação");
+        System.out.println("[F4]Consulta");
+        
+         sc.close;
+        }
+  
+    }
+    
+   
+}
